@@ -1,0 +1,1 @@
+# Automatic-machine-fault-detection-and-recognition-using-Computer-Vision-techniques
